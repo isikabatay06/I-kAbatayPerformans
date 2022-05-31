@@ -1,0 +1,85 @@
+﻿body {    font-weight: 700;
+}
+
+
+.ana
+{
+    margin: auto;
+    width: 980px;
+    height: auto;
+}
+.ustsol
+{
+    width:200px;
+    height:150px;
+    float:left;
+}
+.ustorta
+{
+    width:650px;
+    height:100px;
+    float:left;
+    background-image:url("fotolar/banner.png");
+    padding-top:50px;
+}
+.ustsag
+{
+    width:130px;
+    height:100px;
+    float:left;
+    padding-top:50px;
+}
+.ust
+{
+    border: thin solid #C0C0C0;
+    width: 980px;
+    height: 150px;
+    background-color: #666666;
+    margin-bottom: 1px;
+}
+
+.orta
+{
+    border: 1px solid #C0C0C0;
+    background-color: #E0E0E0;
+    width: 980px;
+    height: 600px;
+    float: right;
+    margin-bottom: 1px;
+}
+.alt
+{
+    border: thin solid #C0C0C0;
+    width: 980px;
+    height: 300px;
+    clear: both;
+    background-color: #666666;
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+ 
+}
+
+li{
+float:left;
+}
+ 
+li a {
+display: block;
+background-color:#000000;
+color:#FFFFFF;
+height:50px;
+width: 92px;
+text-align: center;
+line-height:50px;
+text-decoration:none;
+transition:all .3s ease-in;
+}
+
+li a:hover{
+color:#2CC990;
+background-color:#D8335B;
+}
